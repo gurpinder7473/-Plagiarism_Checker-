@@ -71,6 +71,4 @@ Similarity Score: 0.89
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License.
